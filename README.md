@@ -37,7 +37,7 @@ Linguagens & Tecnologias: `Kotlin`, `Angular`, `CSS`,\
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://certificadas.gptw.com.br/images/CURUPIRASA.jpg"/>](https://www.take.net)
 
 **Systems Analyst (Jr)** \
-[**Rocketseat**](https://www.take.net) • Full-time \
+[**Take Blip**](https://www.take.net) • Full-time \
 Linguagens & Tecnologias: `JavaScript`, `C#`, `.NET`\
 <br/>
 
