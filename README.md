@@ -41,10 +41,10 @@ Linguagens & Tecnologias: `Kotlin`, `Angular`, `CSS`,\
 Linguagens & Tecnologias: `JavaScript`, `C#`, `.NET`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM3yBjK7HnqQCTzKfs3BELTNmdGy-2RYMyAN6XEmqKSWtlKt3tZLPpbetykzXH48PfBcQ&usqp=CAU"/>]([https://nubank.com.br/](https://www.mjvinnovation.com/pt-br/))
+[<img align="left" height="94px" width="94px" alt="MJV" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM3yBjK7HnqQCTzKfs3BELTNmdGy-2RYMyAN6XEmqKSWtlKt3tZLPpbetykzXH48PfBcQ&usqp=CAU"/>]([https://nubank.com.br/](https://www.mjvinnovation.com/pt-br/))
 
 **Trainee** \
-[**Nubank**](https://www.mjvinnovation.com/pt-br/) • Full-time \
+[**MJV**](https://www.mjvinnovation.com/pt-br/) • Full-time \
 Linguagens & Tecnologias: `Node`, `Java`, `IBM Integration Bus`\
 <br/>
 <br/>
