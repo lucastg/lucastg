@@ -34,14 +34,14 @@ In the overview below you will find my most recent work experience:
 Linguagens & Tecnologias: `Kotlin`, `Angular`, `CSS`,\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="[https://certificadas.gptw.com.br/images/CURUPIRASA.jpg](https://yt3.googleusercontent.com/ytc/AL5GRJWGEQJF0AnoXkl0J0BaRk6BxjpnXQjm2WhAvucX_g=s900-c-k-c0x00ffffff-no-rj)"/>](https://www.take.net)
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://certificadas.gptw.com.br/images/CURUPIRASA.jpg](https://yt3.googleusercontent.com/ytc/AL5GRJWGEQJF0AnoXkl0J0BaRk6BxjpnXQjm2WhAvucX_g=s900-c-k-c0x00ffffff-no-rj"/>](https://www.take.net)
 
 **Systems Analyst (Jr)** \
 [**Take Blip**](https://www.take.net) • Full-time \
 Linguagens & Tecnologias: `JavaScript`, `C#`, `.NET`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="MJV" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM3yBjK7HnqQCTzKfs3BELTNmdGy-2RYMyAN6XEmqKSWtlKt3tZLPpbetykzXH48PfBcQ&usqp=CAU"/>]([https://nubank.com.br/](https://www.mjvinnovation.com/pt-br/))
+[<img align="left" height="94px" width="94px" alt="MJV" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM3yBjK7HnqQCTzKfs3BELTNmdGy-2RYMyAN6XEmqKSWtlKt3tZLPpbetykzXH48PfBcQ&usqp=CAU"/>](https://www.mjvinnovation.com/pt-br/)
 
 **Trainee** \
 [**MJV**](https://www.mjvinnovation.com/pt-br/) • Full-time \
