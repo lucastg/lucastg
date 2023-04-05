@@ -27,14 +27,14 @@
   ### Work experience
 In the overview below you will find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://appdevelopmentcompanies.co/front_assets/img/company-logo/nextag.png"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://appdevelopmentcompanies.co/front_assets/img/company-logo/nextag.png"/>](https://www.nextage.com.br/)
 
 **Fullstack Developer** \
-[**Nextage**](https://www.nextage.com.br/br/) • Full-time \
+[**Nextage**](https://www.nextage.com.br/) • Full-time \
 Linguagens & Tecnologias: `Kotlin`, `Angular`, `CSS`,\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://certificadas.gptw.com.br/images/CURUPIRASA.jpg"/>](https://www.take.net)
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="[https://certificadas.gptw.com.br/images/CURUPIRASA.jpg](https://yt3.googleusercontent.com/ytc/AL5GRJWGEQJF0AnoXkl0J0BaRk6BxjpnXQjm2WhAvucX_g=s900-c-k-c0x00ffffff-no-rj)"/>](https://www.take.net)
 
 **Systems Analyst (Jr)** \
 [**Take Blip**](https://www.take.net) • Full-time \
