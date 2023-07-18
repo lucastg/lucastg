@@ -1,11 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff652f&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello+world!+My+name+is+Lucas+Tadeu;I'm+23+years+old;I+from+Brasil,+Curitiba+PR;I'm+Graduated+in+Analysis+and+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tektur&size=30&duration=1500&pause=11&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=150&lines=Hello+World!%F0%9F%91%8B+My+name+is+Lucas+Tadeu!;I%C2%B4m+Backend+Developer+working+with+Java%2C+Kotlin%2C+Node.;Be+welcome!+%F0%9F%98%84)](https://git.io/typing-svg)
 <br><br>
 
 <div align="rigth">
   <a href="https://github.com/lucastg">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucastg&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastg&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div><br>
   
@@ -36,7 +35,7 @@ Linguagens & Tecnologias: `Kotlin`, `Angular`, `CSS`,\
 
 [<img align="left" height="94px" width="94px" alt="Take Blip" src="https://yt3.googleusercontent.com/ytc/AGIKgqNyxOw0MTyJkE5ub-ZlElcV21eNyhLNFe-bs-MaTw=s900-c-k-c0x00ffffff-no-rj"/>](https://www.take.net)
 
-**Systems Analyst (Jr)** \
+**Systems Analyst** \
 [**Take Blip**](https://www.take.net) • Full-time \
 Linguagens & Tecnologias: `JavaScript`, `C#`, `.NET`\
 <br/>
@@ -49,8 +48,10 @@ Linguagens & Tecnologias: `Node`, `Java`, `IBM Integration Bus`\
 <br/>
 <br/>
 
+📫Email: lucas.tadeugouveia@gmail.com
+
 <div> 
-  <a href="https://www.instagram.com/lucaas_tgr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:lucas.tadeugouveia@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-tadeugouveia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
