@@ -34,7 +34,7 @@ In the overview below you will find my most recent work experience:
 Linguagens & Tecnologias: `Kotlin`, `Angular`, `CSS`,\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Take Blip" src="https://verticis.com.br/wp-content/uploads/2021/01/Take-Blip-thumb.jpg"/>](https://www.take.net)
+[<img align="left" height="94px" width="94px" alt="Take Blip" src="https://yt3.googleusercontent.com/ytc/AGIKgqNyxOw0MTyJkE5ub-ZlElcV21eNyhLNFe-bs-MaTw=s900-c-k-c0x00ffffff-no-rj"/>](https://www.take.net)
 
 **Systems Analyst (Jr)** \
 [**Take Blip**](https://www.take.net) • Full-time \
